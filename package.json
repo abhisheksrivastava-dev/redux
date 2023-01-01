@@ -1,0 +1,26 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "redux-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksrivastava-dev/redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisheksrivastava-dev/redux/issues"
+  },
+  "homepage": "https://github.com/abhisheksrivastava-dev/redux#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.2"
+  }
+}
